@@ -1,4 +1,4 @@
-#2 Ingredients
+## Ingredients
 
 - 3 gelatines
 - 1 jus citron + zeste
@@ -8,7 +8,7 @@
 - 3 oeufs séparés
 - 300g creme liquide
 
-#2 preparation
+## preparation
 - Creamcheese + 75g sucre
 - ajouter le jaune
 - citron + gelatine
