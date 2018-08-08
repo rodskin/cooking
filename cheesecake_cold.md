@@ -1,3 +1,5 @@
+#2 Ingredients
+
 - 3 gelatines
 - 1 jus citron + zeste
 - 300g philadelphia
@@ -6,9 +8,11 @@
 - 3 oeufs séparés
 - 300g creme liquide
 
-
+#2 preparation
 - Creamcheese + 75g sucre
 - ajouter le jaune
 - citron + gelatine
 - crème montée
 - blancs montés avec les 34g
+
+Mettre au frigo
